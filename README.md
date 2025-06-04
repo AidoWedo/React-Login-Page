@@ -39,9 +39,9 @@ A modern React portal built with Vite, HeroUI, and Supabase authentication, feat
 
    ```bash
    npm install
-Setup Supabase
+### Setup Supabase
 
-Could you configure your Supabase URL and API key in .env file
+Configure your Supabase URL and API key in .env file
 
 ### Run the app
 
